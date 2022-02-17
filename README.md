@@ -34,4 +34,9 @@ An javascript implementation of a class diagram
   Human "*" o--Clothe : -clothes
   Organ <|-- Eart
   Clothe <|-- Shirt
+  link Human "https://github.com/Jean-Aymeric/transplant/blob/main/human.js"
+  link Organ "https://github.com/Jean-Aymeric/transplant/blob/main/organ.js"
+  link Eart "https://github.com/Jean-Aymeric/transplant/blob/main/eart.js"
+  link Clothe "https://github.com/Jean-Aymeric/transplant/blob/main/clothe.js"
+  link Shirt "https://github.com/Jean-Aymeric/transplant/blob/main/shirt.js"
 ```
